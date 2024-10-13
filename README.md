@@ -12,7 +12,7 @@ Ini adalah proyek website e-commerce yang menyediakan platform untuk menjual dan
 - **Responsif**: Desain yang responsif untuk pengalaman yang optimal di perangkat desktop dan mobile.
 
 ## Teknologi yang Digunakan:
-- **Frontend**: HTML, CSS, JavaScript, Bootstrap
+- **Frontend**: HTML, CSS, SCSS, JavaScript, Bootstrap
 - **Backend**: PHP
 - **Database**: MySQL
 - **Payment Gateway**: [fitur ini masih dalam tahap pengembangan]
