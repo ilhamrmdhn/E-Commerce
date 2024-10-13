@@ -13,6 +13,6 @@ Ini adalah proyek website e-commerce yang menyediakan platform untuk menjual dan
 
 ## Teknologi yang Digunakan:
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap
-- **Backend**: PHP, SQL
+- **Backend**: PHP
 - **Database**: MySQL
 - **Payment Gateway**: [fitur ini masih dalam tahap pengembangan]
