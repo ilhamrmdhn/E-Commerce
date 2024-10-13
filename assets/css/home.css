@@ -1,0 +1,32 @@
+body{
+    background: whitesmoke;
+}
+
+.navbar{
+    background: linear-gradient(to right, #0062E6, #012449);
+}
+
+#home img{
+    height: 200px;
+    object-fit: cover;
+}
+#carouselHome .carousel-item img{
+    height: 70vh;
+    overflow: hidden;
+    object-fit: cover;
+    object-position: center;
+}
+
+.input-group {
+    display: flex;
+    align-items: center;
+}
+
+.form-control {
+    flex: 1;
+}
+
+.btn {
+    margin-left: -1px;
+    cursor: pointer;
+}
